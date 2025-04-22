@@ -18,10 +18,10 @@ Modern websites lack an easy way to track how users interact with elements in re
 ## 📸 Screenshots
 
 ### Dashboard with Action Count & Event Type Analysis  
-![Dashboard Screenshot 1](./photo_6071166569498657535_y.jpg)
+![Dashboard Screenshot 1](./1.jpg)
 
 ### Action Type Distribution and Summary Metrics  
-![Dashboard Screenshot 2](./photo_6071166569498657534_y.jpg)
+![Dashboard Screenshot 2](./2.jpg)
 
 ## 🛠️ Tech Stack
 
